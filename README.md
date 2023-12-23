@@ -1,6 +1,7 @@
-<h2 align="left">Hi 👋! 👩‍💻 Passionate Programmer | 💡 Problem Solver | 📗 Learner
-Welcome to my world!🌐 I'm a dedicated programmer with a love for turning ideas into functional, elegant solutions. Whether it's developing web applications, crafting clean code, or diving deep into algorithms, I thrive on the excitement of bringing innovative projects to life.
-
+<h2 align="left">Hi 👋! I'm 👩‍💻 Passionate Programmer | 💡 Problem Solver | 📗 Learner <br>
+  <br>
+Welcome to my world!🌐 I'm a dedicated programmer with a love for turning ideas into functional, elegant solutions. Whether it's developing web applications, crafting clean code, or diving deep into algorithms, I thrive on the excitement of bringing innovative projects to life.<br>
+<img align="right" height="150" src="https://i.postimg.cc/4xZ6jZFK/91615a55ebee4c64a5a8c924240dbc5e.jpg"/>
 My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies..</h2>
 
 ###
@@ -14,9 +15,6 @@ My job is to build your website so that it is functional and user-friendly but a
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://postimg.cc/cr9tnqWZ"  />
 
 ###
 
