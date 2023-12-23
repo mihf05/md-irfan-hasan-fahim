@@ -16,7 +16,7 @@ My job is to build your website so that it is functional and user-friendly but a
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://postimg.cc/cr9tnqWZ]"  />
 
 ###
 
