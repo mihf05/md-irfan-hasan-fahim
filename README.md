@@ -32,7 +32,7 @@ My job is to build your website so that it is functional and user-friendly but a
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="30" alt="django logo"  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fdjango-logo%2F&psig=AOvVaw2QPNYMcN6ZJHsAT2ynQ8hi&ust=1703477346919000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjAkOeZp4MDFQAAAAAdAAAAABAD" height="30" alt="django logo"  />
 </div>
 
 ###
