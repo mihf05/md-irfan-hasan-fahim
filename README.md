@@ -41,10 +41,3 @@ My job is to build your website so that it is functional and user-friendly but a
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=md-irfan-hasan-fahim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://camo.githubusercontent.com/9b7074dac1de6f44552593cb28399eb5ebb7b53cd85259759f57a36563ec579b/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake animation" />
-
-###
