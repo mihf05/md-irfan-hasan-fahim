@@ -1,9 +1,9 @@
 # 🚀 Md Irfan Hasan Fahim
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ffffff?style=for-the-badge&logo=google-chrome&logoColor=black)](https://irfanhasan.vercel.app) 
-[![GitHub](https://img.shields.io/badge/💻_GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mihf05) 
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/mihf05) 
+[![Portfolio](https://img.shields.io/badge/_Portfolio-ffffff?style=for-the-badge&logo=google-chrome&logoColor=black)](https://irfanhasan.vercel.app) 
+[![GitHub](https://img.shields.io/badge/_GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mihf05) 
+[![LinkedIn](https://img.shields.io/badge/_LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/mihf05) 
 
 </div>
 
