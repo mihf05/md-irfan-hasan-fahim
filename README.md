@@ -43,7 +43,7 @@ Software Developer with expertise in architecting high-scale, production-grade s
 
 ```
 🎯 Fun to do
-├── 💼 Multi-tenant SaaS
+├── 💼 Multi-tenant SaaS | Automations | creating academic & dev tools
 ├── ⚡ Performance: Reduced latency | Optimization
 └── 🌟 Open Source contributor
 ```
