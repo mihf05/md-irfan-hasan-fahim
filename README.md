@@ -7,7 +7,9 @@
 
 </div>
 
-
+<p align="center">
+  <img align="center" src="./github_stats.svg" alt="GitHub Stats Terminal Style" />
+</p>
 
 ```bash
 $ who am i

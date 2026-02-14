@@ -1,0 +1,57 @@
+name: Update GitHub Stats
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    # Runs every day at 2:47 UTC
+    - cron: "47 2 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Clone github-stats-terminal-style
+        run: |
+          git clone https://github.com/yogeshwaran01/github-stats-terminal-style.git /tmp/github-stats-terminal-style
+
+      - name: Use Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+          cache-dependency-path: /tmp/github-stats-terminal-style/package-lock.json
+
+      - name: Install requirements
+        run: |
+          cd /tmp/github-stats-terminal-style
+          npm install
+
+      - name: Build
+        run: |
+          cd /tmp/github-stats-terminal-style
+          npm run build
+
+      - name: Generate Terminal SVG
+        run: |
+          cd /tmp/github-stats-terminal-style
+          node dist/bin/github-stats-terminal.js ${{ github.repository_owner }} dracula
+          cp github_stats.svg $GITHUB_WORKSPACE/github_stats.svg
+        env:
+          GHT: ${{ secrets.GHT }}
+
+      - name: Commit generated terminal SVG
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "action@github.com"
+          git add github_stats.svg
+          git diff --cached --quiet || (git commit -m "GitHub Stats updated 🎉" && git push)
