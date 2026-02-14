@@ -1,4 +1,3 @@
-# 🚀 Md Irfan Hasan Fahim
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/_Portfolio-ffffff?style=for-the-badge&logo=google-chrome&logoColor=black)](https://irfanhasan.vercel.app)
